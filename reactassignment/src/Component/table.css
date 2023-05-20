@@ -1,0 +1,30 @@
+.product-container{
+
+    padding: 35px 5px 0 5px;
+    width: 100%;
+}
+
+table {
+    font-family: arial, sans-serif;
+    /* border-collapse: collapse; */
+    width: 100%;
+    text-align: left;
+    padding: 8px;
+    margin: 30px 30px 30px 30px;
+    text-align: center;
+    border:1px solid black;
+}
+td, th {
+    border: 1px solid #dddddd !important;
+    text-align: left;
+    padding: 8px;
+  }
+
+
+
+button {
+    width: 80px;
+    height: 40px;
+    background-color:#4CBB17!important;
+}
+
